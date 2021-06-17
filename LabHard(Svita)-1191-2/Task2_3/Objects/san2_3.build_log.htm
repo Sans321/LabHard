@@ -5,11 +5,11 @@
 <h2>Tool Versions:</h2>
 IDE-Version: �Vision V5.33.0.0
 Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
-License Information: ugrasu ugrasu, ugrasu, LIC=----
+License Information: Svita errorsa, HP Inc., LIC=----
  
 Tool Versions:
 Toolchain:       MDK-Lite  Version: 5.33.0.0
-Toolchain Path:  C:\Keil_v5\ARM\ARMCLANG\Bin
+Toolchain Path:  D:\MDK\ARM\ARMCLANG\Bin
 C Compiler:      ArmClang.exe V6.15
 Assembler:       Armasm.exe V6.15
 Linker/Locator:  ArmLink.exe V6.15
@@ -21,40 +21,17 @@ Target DLL:      UL2CM3.DLL V1.163.9.0
 Dialog DLL:      TARMCM1.DLL V1.14.3.0
  
 <h2>Project:</h2>
-C:\Users\TEMP.EDU.006\Desktop\LabHard-main\LabHard(Svita)-1191-2\Task2_3\san2_3.uvprojx
-Project File Date:  06/16/2021
+D:\LabHard(Svita)-1191-2\Task2_3\san2_3.uvprojx
+Project File Date:  04/28/2021
 
 <h2>Output:</h2>
-*** Using Compiler 'V6.15', folder: 'C:\Keil_v5\ARM\ARMCLANG\Bin'
+*** Using Compiler 'V6.15', folder: 'D:\MDK\ARM\ARMCLANG\Bin'
 Build target 'Target 1'
-main.c(16): warning: In file included from...
-./main.h(3): warning: redefinition of typedef 'bool' is a C11 feature [-Wtypedef-redefinition]
-typedef int bool; // Определение своего типа данных 
-            ^
-main.c(14): note: './main.h' included multiple times, additional include site here
-#include "main.h"       //Заголовчоный файл с описанием подключаемых библиотечных модулей
-         ^
-main.c(16): note: './main.h' included multiple times, additional include site here
-#include "main.h"
-         ^
-./main.h(3): note: unguarded header; consider using #ifdef guards or #pragma once
-typedef int bool; // Определение своего типа данных 
-            ^
-main.c(32): warning: variable length array used [-Wvla]
-                char values[result_length];
-                            ^~~~~~~~~~~~~
-main.c(39): warning: passing 'char *' to parameter of type 'uint8_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign [-Wpointer-sign]
-                notification(result_message);
-                             ^~~~~~~~~~~~~~
-./main.h(11): note: passing argument to parameter 'message' here
-void notification(uint8_t *message);
-                           ^
-3 warnings generated.
 compiling main.c...
 linking...
-Program Size: Code=1574 RO-data=214 RW-data=0 ZI-data=1632  
+Program Size: Code=476 RO-data=208 RW-data=0 ZI-data=1632  
 FromELF: creating hex file...
-".\Objects\san2_3.axf" - 0 Error(s), 3 Warning(s).
+".\Objects\san2_3.axf" - 0 Error(s), 0 Warning(s).
 
 <h2>Software Packages used:</h2>
 
@@ -72,16 +49,16 @@ Package Vendor: Keil
 
 <h2>Collection of Component include folders:</h2>
   .\RTE\_Target_1
-  C:\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
-  C:\Keil_v5\Packs\Keil\STM32F0xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include
+  D:\MDK\Packed\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  D:\MDK\Packed\Keil\STM32F0xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include
 
 <h2>Collection of Component Files used:</h2>
 
    * Component: ARM::CMSIS:CORE:5.4.0
 
    * Component: Keil.Standalone::Device:Startup:1.0.0
-      Source file:   MDK\Device\Source\ARM\STM32F0xx_OPT.s
       Include file:  Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+      Source file:   MDK\Device\Source\ARM\STM32F0xx_OPT.s
       Source file:   Drivers\CMSIS\Device\ST\STM32F0xx\Source\Templates\system_stm32f0xx.c
       Source file:   Drivers\CMSIS\Device\ST\STM32F0xx\Source\Templates\arm\startup_stm32f072xb.s
 Build Time Elapsed:  00:00:00
