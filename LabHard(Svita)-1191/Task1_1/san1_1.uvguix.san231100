@@ -91,7 +91,7 @@
     <WindowPosition>
       <length>44</length>
       <flags>2</flags>
-      <showCmd>2</showCmd>
+      <showCmd>3</showCmd>
       <MinPosition>
         <xPos>-32000</xPos>
         <yPos>-32000</yPos>
@@ -110,8 +110,8 @@
     <MDIClientArea>
       <RegID>0</RegID>
       <MDITabState>
-        <Len>273</Len>
-        <Data>0100000004000000010000000100000001000000010000000000000002000000000000000100000001000000000000002800000028000000010000000100000000000000010000004D433A5C55736572735C54454D502E4544552E3030365C4465736B746F705C4C6162486172642D6D61696E5C4C616248617264285376697461292D313139315C5461736B315F335C6D61696E2E6300000000066D61696E2E6300000000C5D4F200FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000F483FFFF4F83FFFF808AFFFF5286FFFF</Data>
+        <Len>374</Len>
+        <Data>0100000004000000010000000100000001000000010000000000000002000000000000000100000001000000000000002800000028000000010000000200000000000000010000004D433A5C55736572735C54454D502E4544552E3030365C4465736B746F705C4C6162486172642D6D61696E5C4C616248617264285376697461292D313139315C5461736B315F315C6D61696E2E6300000000066D61696E2E6300000000C5D4F200FFFFFFFF4D433A5C55736572735C54454D502E4544552E3030365C4465736B746F705C4C6162486172642D6D61696E5C4C616248617264285376697461292D313139315C5461736B315F315C6D61696E2E6800000000066D61696E2E6800000000FFDC7800FFFFFFFF0100000010000000C5D4F200FFDC7800BECEA100F0A0A100BCA8E1009CC1B600F7B88600D9ADC200A5C2D700B3A6BE00EAD6A300F6FA7D00B5E99D005FC3CF00C1838300CACAD500010000000000000002000000F4000000660000008007000069030000</Data>
       </MDITabState>
     </MDIClientArea>
     <ViewEx>
@@ -154,7 +154,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -174,7 +174,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -194,7 +194,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -214,7 +214,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -234,7 +234,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -254,7 +254,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -274,7 +274,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -294,7 +294,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -314,7 +314,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -334,7 +334,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -354,7 +354,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -374,7 +374,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -394,7 +394,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -414,7 +414,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -434,7 +434,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -454,7 +454,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -474,7 +474,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -494,7 +494,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -514,7 +514,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -534,7 +534,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -554,7 +554,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -574,7 +574,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -614,7 +614,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -634,7 +634,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -654,7 +654,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -674,7 +674,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -694,7 +694,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -714,7 +714,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -734,7 +734,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -754,7 +754,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -774,7 +774,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -794,7 +794,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -814,7 +814,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -834,7 +834,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -854,7 +854,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -874,7 +874,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -894,7 +894,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -914,7 +914,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -934,7 +934,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -954,7 +954,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -974,7 +974,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -994,7 +994,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1014,7 +1014,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1034,7 +1034,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1054,7 +1054,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1074,7 +1074,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1094,7 +1094,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1114,7 +1114,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1134,7 +1134,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1154,7 +1154,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1174,7 +1174,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1194,7 +1194,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1214,7 +1214,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1234,7 +1234,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1254,7 +1254,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1274,7 +1274,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000DA01000015030000</Data>
+          <Data>3C000000530000005801000093020000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1294,7 +1294,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D50000008603000065010000</Data>
+          <Data>3C0000005300000004030000E3000000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1314,7 +1314,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1334,7 +1334,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1354,7 +1354,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1374,7 +1374,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1394,7 +1394,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1414,7 +1414,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1434,7 +1434,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1454,7 +1454,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1474,7 +1474,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1494,7 +1494,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1514,7 +1514,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1534,7 +1534,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1554,7 +1554,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1574,7 +1574,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1594,7 +1594,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1614,7 +1614,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1634,7 +1634,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1654,7 +1654,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1674,7 +1674,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1694,7 +1694,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <Window>
@@ -1794,7 +1794,7 @@
         </RectRecentDocked>
         <RectRecentFloat>
           <Len>16</Len>
-          <Data>BE000000D5000000AE010000A0010000</Data>
+          <Data>3C000000530000002C0100001E010000</Data>
         </RectRecentFloat>
       </Window>
       <DockMan>
@@ -1865,9 +1865,18 @@
       <ActiveTab>0</ActiveTab>
       <Doc>
         <Name>.\main.c</Name>
-        <ColumnNumber>48</ColumnNumber>
-        <TopLine>55</TopLine>
-        <CurrentLine>60</CurrentLine>
+        <ColumnNumber>10</ColumnNumber>
+        <TopLine>3</TopLine>
+        <CurrentLine>27</CurrentLine>
+        <Folding>1</Folding>
+        <ContractedFolders></ContractedFolders>
+        <PaneID>0</PaneID>
+      </Doc>
+      <Doc>
+        <Name>.\main.h</Name>
+        <ColumnNumber>0</ColumnNumber>
+        <TopLine>1</TopLine>
+        <CurrentLine>1</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
