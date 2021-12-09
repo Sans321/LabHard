@@ -1,58 +1,48 @@
-sim('D:\MatLab\SAVE\lab5.slx')
+﻿sim('\\fs.edu.ugrasu\Homes\Students\Homes\1191б\san231100\MATLAB\lab53.slx')
 teta = ans.x
-v = ans.y
+v = ans.dx
 data_len = length(teta.Data)
-Координаты синусоиды:
+% Координаты синусоиды:
 x = linspace(0,20,data_len)    
 y=sin(x)
-Координаты маятника:
+
+%Координаты маятника:
 l = linspace(0,1)
 xx=sind(teta.Data);
-yy=-l.*cos(teta.Data)
-Задаём графическое окно
+yy=-l.*cosd(teta.Data)
+%Задаём графическое окно
 fig=figure(1);
 set(fig,'Position',[0 50 1920 500])
-Отрисовка первичных графиков
+%Отрисовка первичных графиков
 
-Анимация:
+%Анимация:
 for idx = 1:data_len
+    
+
     subplot(1,3,1)
-    plot(x,y,'b','LineWidth',0.1)
-    hold on 
-    grid on
-    ph1=plot(x(1),y(1),'ro','MarkerSize',12,'MarkerFaceColor',[1 0 0]);
-    set(ph1,'XData',x(idx),'YData',y(idx))
-    hold off 
-
-    subplot(1,3,3)
-    plot(x,y,'w')
-    grid on
-    hold on 
-    ph2=plot(x(1),y(1),'ro','MarkerSize',10,'MarkerFaceColor',[1 0 0]);
-    set(ph2,'XData',x(idx),'YData',y(idx))
-
-    subplot(2,3,1)
     plot(teta.Time,teta.Data,'b','LineWidth',0.1)
     hold on 
     grid on
     ph3=plot(teta.Time(1),teta.Data(1),'ro','MarkerSize',10,'MarkerFaceColor',[1 0 0]);
     set(ph3,'XData',teta.Time(idx),'YData',teta.Data(idx))
     hold off 
-    
-    subplot(2,3,2)
+
+    subplot(1,3,2)
     plot(teta.Data,v.Data,'b','LineWidth',0.1)
     hold on 
     grid on
     ph4=plot(teta.Data(1),v.Data(1),'ro','MarkerSize',10,'MarkerFaceColor',[1 0 0]);
-    set(ph4,'XData',teta.Data(1:idx),'YData',v.Data(1:idx))
+    set(ph4,'XData',teta.Data(idx),'YData',v.Data(idx))
     hold off
-
-    subplot(2,3,3)
-    hold on 
-    plot(repelem(xx(idx),100),yy(idx,:),'b','LineWidth',1)
-    grid on
-    plot(xx(idx),yy(idx,100),'ro','MarkerSize',10,'MarkerFaceColor',[1 0 0]);
-    hold off
+    
+%     subplot(1,3,3)
+%     hold on 
+%     plot(repelem(xx(idx),100),yy(idx,:),'b','LineWidth',1)
+%     grid on
+%     plot(xx(idx),yy(idx,100),'ro','MarkerSize',10,'MarkerFaceColor',[1 0 0]);
+%     hold off
+    
+    
     
     pause(0.001)
 end
